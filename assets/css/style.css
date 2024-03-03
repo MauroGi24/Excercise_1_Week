@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: #eaeded;
+    padding: 2rem;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.text-align-c {
+    text-align: center;
+}
+
+.text-white {
+    color:white;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.m-1 {
+    margin:1rem;
+}
+
+.pd-1 {
+    padding: 1rem;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+header {
+    background-color: #222f3e;
+}
+
+header img {
+    height: 40px;
+}
+
+.pd-header {
+    padding: 0.5rem 2rem;
+}
+
+nav {
+    background-color: #364759;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.topbar {
+    background-color: #f56600;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.jumbotron {
+    background-image: url(/assets/image/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+    margin-top: 2rem;
+}
+
+.row-gift { 
+    display: inline;
+}
+
+.row-1 {
+    padding: 1rem 1rem 0 1.5rem;
+    text-align: left;
+}
+
+.title-row {
+    font-size: 1.3rem;
+}
+
+.subtitle-row {
+    color: #007185;
+    font-weight: 600;
+    margin-left: 1rem;
+
+}
+
+.gift-img {
+    width: 22%;
+    height: 380px;
+    object-fit: cover;
+    margin: 1rem;
+    border-radius: 20px;
+}
+
+.row-2{
+    display: flex;
+}
+
+.cl-row-2 {
+    width: 85%;
+    margin-right: 2rem;
+}
+
+.content-cl-row-2 {
+    display: inline-block;
+    width: 49%;
+}
+
+.content-cl-row-2 img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.content-cl-row-2 p {
+    margin: 0;
+}
+
+.cl-row-2 a {
+    color: #007185;
+    text-decoration: none;
+}
+
+.bg-footer-light {
+    background-color: #364759;
+    padding: 1rem;
+}
+
+.bg-footer-dark {
+    background-color: #222f3e;
+    padding: 3rem;
+}
+
+footer img {
+    height: 40px;
+}
+
+footer a {
+    color:white;
+}
+
