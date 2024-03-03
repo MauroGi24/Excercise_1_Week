@@ -21,8 +21,16 @@ ul {
     color:white;
 }
 
+.mt-1{
+    margin-top: 1rem;
+}
+
 .mt-2 {
     margin-top: 2rem;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
 }
 
 .m-1 {
@@ -121,6 +129,14 @@ nav ul li a {
 .cl-row-2 {
     width: 85%;
     margin-right: 2rem;
+}
+
+section .cl-row-2 h3 {
+    margin-left: 1rem;
+}
+
+.content-cl {
+   padding: 1rem;
 }
 
 .content-cl-row-2 {
